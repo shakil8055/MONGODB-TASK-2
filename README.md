@@ -1,13 +1,22 @@
 # MONGODB-TASK-2
 
 **Design database for Zen class programme**
+
 users,
+
 codekata,
+
 attendance,
+
 topics,
+
 tasks,
+
 company_drives,
+
 mentors,
+
+**TASK**
 
 1.Find all the topics and tasks which are thought in the month of October
 
